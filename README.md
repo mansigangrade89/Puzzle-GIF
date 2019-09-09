@@ -2,5 +2,5 @@
 
 ![](output.gif)
 
-<h1>Puzzle is the puuzle.</br>
+<h1>Puzzle is the puzzle.</br>
 this puzzle consists of one more puzzle inside it.
